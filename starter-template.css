@@ -1,0 +1,25 @@
+body {
+  background-color: steelblue;
+  padding-top: 50px;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+/* Used only for the app name */
+h1 {
+  color: oldlace;
+}
+
+/* Today's date */
+.date {
+  color: oldlace;
+}
+
+/* Near Earth Object item */
+.neo-item {
+  margin: .7em;
+  padding: .3em;
+}
